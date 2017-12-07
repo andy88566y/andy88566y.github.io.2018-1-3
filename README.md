@@ -1,4 +1,6 @@
-# Hyde
+# Yingrid
+A place for dogs and cats to play, walk and roll on the grass.
+check out [my site](http://andy88566y.github.io)
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
