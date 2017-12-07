@@ -19,15 +19,20 @@ author:
   name:           'Andy Yang'
   url:            https://www.facebook.com/GCDfromTaiwan
 
-paginate:         5
-paginate_path:    "page:num"
+
 
 # Custom vars
 version:          2.1.0
 
 # Gems
 plugins: [jekyll-paginate]
+paginate: 5
+paginate_path:    "page:num"
+
 plugins: [jekyll-gist]
+
+
+
 
 github:
   repo:           https://github.com/andy88566y
