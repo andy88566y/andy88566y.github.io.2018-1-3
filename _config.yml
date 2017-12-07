@@ -1,7 +1,8 @@
 # Dependencies
-markdown:         redcarpet
-redcarpet:
-  extensions      : ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+#markdown:         redcarpet
+markdown:         kramdown
+# redcarpet:
+#   extensions      : ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 highlighter:      pygments
 
 # Permalinks

@@ -2,9 +2,10 @@
 A place for dogs and cats to play, walk and roll on the grass.
 check out [my site](http://andy88566y.github.io)
 
+
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
+[dogcatRoof](https://github.com/andy88566y/andy88566y.github.io/blob/master/public/favicons.ico/ms-icon-310x310.png)
 
 
 ## Contents
