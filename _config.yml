@@ -1,29 +1,31 @@
 # Dependencies
 markdown:         redcarpet
+redcarpet:
+  extensions      : ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            AndyYang
+tagline:          'A tagline theme'
+description:      '貓貓狗狗玩樂搗蛋散步的地方 <img src="public/favicon.ico" alt="">'
+url:              http://andy88566y.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Andy Yang'
+  url:            https://facebook/GCDFromTaiwan
 
 paginate:         5
 paginate_path:    "page:num"
 
 # Custom vars
-version:          2.1.0
+version:          1.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/andy88566y/andy88566y.github.io
 
 # Gems
 plugins: [jekyll-paginate]
