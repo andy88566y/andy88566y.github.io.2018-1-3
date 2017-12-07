@@ -10,24 +10,24 @@ permalink:        pretty
 
 # Setup
 title:            AndyYang
-tagline:          'A tagline theme'
-description:      '貓貓狗狗玩樂搗蛋散步的地方 <img src="public/favicon.ico" alt="">'
-url:              http://andy88566y.github.io
+tagline:          'Stay Human'
+description:      '貓貓狗狗玩樂搗蛋散步的地方 <img src="public/favicon.ico" alt>'
+url:              https://andy88566y.github.io
 baseurl:          /
 
 author:
   name:           'Andy Yang'
-  url:            https://facebook/GCDFromTaiwan
+  url:            https://www.facebook.com/GCDfromTaiwan
 
 paginate:         5
 paginate_path:    "page:num"
 
 # Custom vars
-version:          1.1.0
-
-github:
-  repo:           https://github.com/andy88566y/andy88566y.github.io
+version:          2.1.0
 
 # Gems
 plugins: [jekyll-paginate]
 plugins: [jekyll-gist]
+
+github:
+  repo:           https://github.com/andy88566y
