@@ -5,7 +5,7 @@ check out [my site](http://andy88566y.github.io)
 
 Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-[dogcatRoof](https://github.com/andy88566y/andy88566y.github.io/blob/master/public/favicons.ico/ms-icon-310x310.png)
+![dogcatRoof](https://github.com/andy88566y/andy88566y.github.io/blob/master/public/favicons.ico/ms-icon-310x310.png)
 
 
 ## Contents
