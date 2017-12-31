@@ -3,13 +3,14 @@ layout: post
 title: Happy New Year
 ---
 
+2018 新年快樂
+![my dog and alphadog](/images/my_dog_and_alphadog.jpg)
+
 AlphaGo
 阿法狗
 阿發狗
 阿法犬
 阿發犬
-
-2018 新年快樂
 
 新的一年，希望工作能順順利利，不用賺很多錢夠用就好，但要能夠學到很多東西
 
