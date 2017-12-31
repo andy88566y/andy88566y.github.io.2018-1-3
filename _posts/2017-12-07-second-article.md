@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Second Article
+title: Markdown Practice
 ---
 
 [Yingrid](http://andy88566y.github.io) is home to a dog and a cat.
-22222
 
-這裡是一隻狗跟一隻貓的家，記錄貓貓搗亂還有狗狗蹦蹦跳跳的過程。
 
+第二篇實在有點亂打
+拿來測一下markdown的功能好了
+Happy New Year <https://andy88566y.github.io/>

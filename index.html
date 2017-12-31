@@ -12,9 +12,19 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% if post.subtitle %}
+      <p class="post-subtitle">
+        {{ post.subtitle }}
+      </p>
+    {% endif %}
 
-    <!-- {{ post.content }} -->
+    {% if post.image %}
+      <p class="post-image">
+        <img src={{post.image}} alt="post.image fail" width="400">
+      </p>
+    {% endif %}
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
   </div>
   {% endfor %}
 </div>

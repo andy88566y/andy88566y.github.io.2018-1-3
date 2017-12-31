@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Happy New Year
+subtitle: 2018 新年快樂
+image: /images/my_dog_and_alphadog.jpg
 ---
 
 2018 新年快樂
