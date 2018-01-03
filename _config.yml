@@ -1,15 +1,16 @@
 # Dependencies
-#markdown:         redcarpet
-markdown:         kramdown
-# redcarpet:
-#   extensions      : ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
-highlighter:      rouge
+markdown            : kramdown
+theme               : jekyll-theme-cayman
+redcarpet:
+  extensions        : ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+highlighter         : rouge
+gems                : ["jekyll-paginate", "jekyll-watch", "jekyll-assets", "jekyll-gist"]
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            AndyYang
+title:            Andy Yang's Life Note
 tagline:          'Stay Human'
 description:      '貓貓狗狗玩樂搗蛋散步的地方'
 url:              https://andy88566y.github.io
@@ -19,14 +20,12 @@ author:
   name:           'Andy Yang'
   url:            https://www.facebook.com/GCDfromTaiwan
 
-
+paginate: 5
 
 # Custom vars
 version:          2.1.0
 
 # Gems
-gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets, jekyll-paginate, jekyll-gist]
-paginate: 5
 
 github:
   repo:           https://github.com/andy88566y
